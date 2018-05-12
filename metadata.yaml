@@ -1,0 +1,29 @@
+_repo: Mosby-s-War-ReminiscencesStuart-s-Cavalry-Campaigns_45436
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45436-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Mosby, John Singleton
+    birthdate: 1833
+    deathdate: 1916
+    gutenberg_agent_id: '43284'
+    url: http://www.gutenberg.org/2009/agents/43284
+description: ''
+gutenberg_issued: '2014-04-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45436'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Stuart, Jeb, 1833-1864'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Campaigns'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives,
+  Confederate'
+- !lcc 'E456'
+title: Mosby's War Reminiscences; Stuart's Cavalry Campaigns
+url: http://www.gutenberg.org/ebooks/45436
